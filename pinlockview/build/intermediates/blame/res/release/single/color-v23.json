@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "/home/brst-pc93/Desktop/PinLockView-master/pinlockview/build/intermediates/res/merged/release/color-v23/abc_color_highlight_material.xml",
+        "source": "/home/brst-pc93/.android/build-cache/e931b09e31ca8125a9e0f81c21f2e5c65ebce9a7/output/res/color-v23/abc_color_highlight_material.xml"
+    },
+    {
+        "merged": "/home/brst-pc93/Desktop/PinLockView-master/pinlockview/build/intermediates/res/merged/release/color-v23/abc_tint_btn_checkable.xml",
+        "source": "/home/brst-pc93/.android/build-cache/e931b09e31ca8125a9e0f81c21f2e5c65ebce9a7/output/res/color-v23/abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "/home/brst-pc93/Desktop/PinLockView-master/pinlockview/build/intermediates/res/merged/release/color-v23/abc_tint_seek_thumb.xml",
+        "source": "/home/brst-pc93/.android/build-cache/e931b09e31ca8125a9e0f81c21f2e5c65ebce9a7/output/res/color-v23/abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "/home/brst-pc93/Desktop/PinLockView-master/pinlockview/build/intermediates/res/merged/release/color-v23/abc_btn_colored_text_material.xml",
+        "source": "/home/brst-pc93/.android/build-cache/e931b09e31ca8125a9e0f81c21f2e5c65ebce9a7/output/res/color-v23/abc_btn_colored_text_material.xml"
+    },
+    {
+        "merged": "/home/brst-pc93/Desktop/PinLockView-master/pinlockview/build/intermediates/res/merged/release/color-v23/abc_tint_switch_thumb.xml",
+        "source": "/home/brst-pc93/.android/build-cache/e931b09e31ca8125a9e0f81c21f2e5c65ebce9a7/output/res/color-v23/abc_tint_switch_thumb.xml"
+    },
+    {
+        "merged": "/home/brst-pc93/Desktop/PinLockView-master/pinlockview/build/intermediates/res/merged/release/color-v23/abc_tint_edittext.xml",
+        "source": "/home/brst-pc93/.android/build-cache/e931b09e31ca8125a9e0f81c21f2e5c65ebce9a7/output/res/color-v23/abc_tint_edittext.xml"
+    },
+    {
+        "merged": "/home/brst-pc93/Desktop/PinLockView-master/pinlockview/build/intermediates/res/merged/release/color-v23/abc_tint_switch_track.xml",
+        "source": "/home/brst-pc93/.android/build-cache/e931b09e31ca8125a9e0f81c21f2e5c65ebce9a7/output/res/color-v23/abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "/home/brst-pc93/Desktop/PinLockView-master/pinlockview/build/intermediates/res/merged/release/color-v23/abc_tint_spinner.xml",
+        "source": "/home/brst-pc93/.android/build-cache/e931b09e31ca8125a9e0f81c21f2e5c65ebce9a7/output/res/color-v23/abc_tint_spinner.xml"
+    },
+    {
+        "merged": "/home/brst-pc93/Desktop/PinLockView-master/pinlockview/build/intermediates/res/merged/release/color-v23/abc_btn_colored_borderless_text_material.xml",
+        "source": "/home/brst-pc93/.android/build-cache/e931b09e31ca8125a9e0f81c21f2e5c65ebce9a7/output/res/color-v23/abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "/home/brst-pc93/Desktop/PinLockView-master/pinlockview/build/intermediates/res/merged/release/color-v23/abc_tint_default.xml",
+        "source": "/home/brst-pc93/.android/build-cache/e931b09e31ca8125a9e0f81c21f2e5c65ebce9a7/output/res/color-v23/abc_tint_default.xml"
+    }
+]

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/brst-pc93/Desktop/PinLockView-master/pinlockview/build/intermediates/bundles/default/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="01ace3a60f39a760807050f36bf5b4f176931174">
+        <dex dex="/home/brst-pc93/Desktop/PinLockView-master/app/build/intermediates/pre-dexed/debug/classes_b743b6926046d9f05deaa33324aa66f5a14b3d79.jar" />
+    </item>
+
+</items>
