@@ -8,8 +8,10 @@
 
     <Button
         android:id="@+id/button"
-        android:layout_width="64dp"
-        android:layout_height="64dp"
+        android:layout_width="72dp"
+        android:layout_height="72dp"
+        android:textStyle="bold"
+        android:textSize="24sp"
         android:background="?android:attr/selectableItemBackground"/>
 
 </LinearLayout>

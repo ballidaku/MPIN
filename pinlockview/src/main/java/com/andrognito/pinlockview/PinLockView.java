@@ -93,10 +93,12 @@ public class PinLockView extends RecyclerView {
         }
     };
 
-    private PinLockAdapter.OnDeleteClickListener mOnDeleteClickListener
-            = new PinLockAdapter.OnDeleteClickListener() {
+    private PinLockAdapter.OnDeleteClickListener mOnDeleteClickListener= new PinLockAdapter.OnDeleteClickListener() {
         @Override
         public void onDeleteClicked() {
+
+            Log.e("DELETE","onDeleteClicked");
+
             if (mPin.length() > 0) {
                 mPin = mPin.substring(0, mPin.length() - 1);
 
@@ -126,6 +128,8 @@ public class PinLockView extends RecyclerView {
 
         @Override
         public void onDeleteLongClicked() {
+
+            Log.e("DELETE","onDeleteLongClicked");
             resetPinLockView();
             if (mPinLockListener != null) {
                 mPinLockListener.onEmpty();
@@ -170,8 +174,13 @@ public class PinLockView extends RecyclerView {
 
         mCustomizationOptionsBundle = new CustomizationOptionsBundle();
         mCustomizationOptionsBundle.setTextColor(mTextColor);
-        mCustomizationOptionsBundle.setTextSize(mTextSize);
-        mCustomizationOptionsBundle.setButtonSize(mButtonSize);
+//        mCustomizationOptionsBundle.setTextSize(mTextSize);
+//        mCustomizationOptionsBundle.setButtonSize(mButtonSize);
+
+        mCustomizationOptionsBundle.setTextSize(70);
+        mCustomizationOptionsBundle.setButtonSize(250);
+
+//        Log.e("mTextSize "+mTextSize,"mButtonSize "+mButtonSize);
         mCustomizationOptionsBundle.setButtonBackgroundDrawable(mButtonBackgroundDrawable);
         mCustomizationOptionsBundle.setDeleteButtonDrawable(mDeleteButtonDrawable);
         mCustomizationOptionsBundle.setDeleteButtonSize(mDeleteButtonSize);

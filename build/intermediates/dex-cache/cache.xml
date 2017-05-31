@@ -2,6 +2,15 @@
 <items version="2" >
 
     <item
+        is-multidex="true"
+        jar="/home/brst-pc93/Desktop/PinLockView-master/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="caff8e51a24901cfc9cd7e1cf83d84f4cb0c103b">
+        <dex dex="/home/brst-pc93/Desktop/PinLockView-master/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_77ae7c1f36d7ea3cd18193e1b635d9ef6c9bbbbf/classes.dex" />
+    </item>
+    <item
         is-multidex="false"
         jar="/home/brst-pc93/Desktop/PinLockView-master/pinlockview/build/intermediates/bundles/default/classes.jar"
         jumboMode="false"
@@ -9,6 +18,15 @@
         revision="25.0.0"
         sha1="01ace3a60f39a760807050f36bf5b4f176931174">
         <dex dex="/home/brst-pc93/Desktop/PinLockView-master/app/build/intermediates/pre-dexed/debug/classes_b743b6926046d9f05deaa33324aa66f5a14b3d79.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/brst-pc93/Desktop/PinLockView-master/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="91b7fb5dfc771ca1edcfdcfc8bc1c2c7d3022ddb">
+        <dex dex="/home/brst-pc93/Desktop/PinLockView-master/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_2807ec6e943c988883b15fe43726216884bb8665/classes.dex" />
     </item>
 
 </items>

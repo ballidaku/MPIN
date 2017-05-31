@@ -183,6 +183,7 @@ public class SampleActivity extends AppCompatActivity
                 resetTime = pin;
                 TYPE = MyConstant.CONFIRM_PIN_AFTER_CHANGE;
                 setHeading();
+                mPinLockView.resetPinLockView();
             }
             else if (TYPE.equals(MyConstant.CONFIRM_PIN_AFTER_CHANGE) && resetTime.equals(pin))
             {
@@ -190,6 +191,7 @@ public class SampleActivity extends AppCompatActivity
                 firstTime = pin;
                 TYPE = MyConstant.CHECK_PIN;
                 setReset();
+
             }
             else if (TYPE.equals(MyConstant.CONFIRM_PIN_AFTER_CHANGE) && !resetTime.equals(pin))
             {
